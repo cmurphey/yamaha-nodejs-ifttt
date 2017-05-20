@@ -1,0 +1,26 @@
+{
+  "name": "yamaha-nodejs-ifttt",
+  "version": "1.0.0",
+  "description": "Node http server to rap the yamaha-nodejs library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmurphey/yamaha-nodejs-ifttt.git"
+  },
+  "keywords": [
+    "yamaha",
+    "ifttt"
+  ],
+  "author": "cmurphey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmurphey/yamaha-nodejs-ifttt/issues"
+  },
+  "homepage": "https://github.com/cmurphey/yamaha-nodejs-ifttt#readme",
+  "dependencies": {
+    "yamaha-nodejs": "^0.7.8"
+  }
+}
